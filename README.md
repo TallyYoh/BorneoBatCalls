@@ -4,8 +4,8 @@
 
 ##### Data inputs required:
 ###### - WAV files in 5 second fragments
-###### - Machine learning models (download; "model_Type_1000.rds", "model_CF_1000.rds", "model_FM_2000.rds")
-###### - Confidence thresholds for each species (download, "ThresholdValues.csv")
+###### - Machine learning models (download - "model_Type_1000.rds", "model_CF_1000.rds", "model_FM_2000.rds")
+###### - Confidence thresholds for each species (download - "ThresholdValues.csv")
 
 ##### The output includes: 
 ###### - Pulse measurements 
