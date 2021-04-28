@@ -1,7 +1,7 @@
 ## BATS OF BORNEO:
 ## SEMI-AUTOMATED CLASSIFIER FOR ECHOLOCATION CALLS (2021)🦇
 #### Semi-automated acoustic classifier for the bats of Borneo for R, see -insert paper name here- for more information 
-https://zenodo.org/badge/DOI/10.5281/zenodo.4725680.svg
+![image](https://user-images.githubusercontent.com/43967474/116438405-50b2bc00-a846-11eb-9d6a-8fd506c93430.png)
 
 ##### Data inputs required:
 ###### - WAV files in 5 second fragments
