@@ -18,18 +18,6 @@
 ###### - Kaleidoscope v5.1.9 (Wildlife Acoustics Incl.)
 ###### - Adobe Audition v12.1.5 (Adobe Creative Cloud)
 
-##### Contributors
-###### Dr Matthew Struebig (University of Kent, UK)
-###### Dr Jake Bicknell (University of Kent, UK)
-###### Prof. Tigga Kingston (Texas Tech, USA)
-###### Dr Joe Chun-Chia Huang (Taiwan Forestry Research Institute, Taiwan)
-###### Ellen Mc arthur (Gunung Mulu National Park & World Heritage Area, Malaysia)
-###### Dr Benjamin Lee (National Parks Board, Singapore)
-###### Dr Faisal Ali Lab (University Malaysia, Sarawak)
-###### Emy Ritta Jinggong (University Malaysia, Sarawak)
-###### Oli Aylen (University of Otago, New Zealand)
-###### Dr Kyle Armstrong (University of Adelaide, Australia)
-
 ##### Funding
 ###### UKRI NERC through the EnvEast DTP scholarship (grant number NE/L002582/1)
 
