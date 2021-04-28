@@ -1,6 +1,6 @@
 ## Bats of Borneo:
 ## Semi-automated classifier for echolocation calls 🦇
-![image](https://user-images.githubusercontent.com/43967474/116438405-50b2bc00-a846-11eb-9d6a-8fd506c93430.png)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4725680.svg)](https://doi.org/10.5281/zenodo.4725680)
 #### Semi-automated acoustic classifier for the bats of Borneo for R, see XXXX for more information 
 
 
