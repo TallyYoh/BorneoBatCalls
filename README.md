@@ -5,9 +5,12 @@
 
 ## Bats of Borneo: semi-automated classifier for echolocation calls 🦇
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4725680.svg)](https://doi.org/10.5281/zenodo.4725680)
-#### Semi-automated acoustic classifier for the bats of Borneo for R, see XXXX for more information 
+#### Semi-automated acoustic classifier for the bats of Borneo for R, see https://doi.org/10.1016/j.ecolind.2022.108696 for more information 
 
-Yoh, N., Kingston, T., McArthur, E., Aylen, OE., Huang, JCC., Jinggong, ER., Khan, FAA, Lee, BPYH, Mitchell, SLM., Bicknell, JE., and Struebig, MJ. (2022). A machine learning framework to classify Southeast Asian echolocating bats, Ecological Indicators (in review)​
+Yoh, N., Kingston, T., McArthur, E., Aylen, O.E., Huang, J.C.C., Jinggong, E.R., Khan, F.A.A., Lee, B.P.Y.H., Mitchell, S.L.M., Bicknell, J.E.,
+and Struebig, M.J. (2022). A machine learning framework to classify Southeast Asian echolocating bats, Ecological Indicators, 136.
+doi:10.1016/j.ecolind.2022.108696 
+​
 
 This script applies the Borneo Bat Classifier (BBC) machine learning classifier to collated bat call parameter measurements from Borneo and assigns relevant labels
 #### Data inputs required:
