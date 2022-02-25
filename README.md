@@ -1,5 +1,5 @@
 
-#                                                   Due to be released soon!
+#                                                  First version now available!
 
 
 
@@ -28,7 +28,9 @@ This script applies the Borneo Bat Classifier (BBC) machine learning classifier 
 ###### - Kaleidoscope v5.1.9g (Wildlife Acoustics, 2019)
 ###### - Adobe Audition v12.1.5 (Adobe Creative Cloud)
 
-#### Our aim is continuously test and update this tool as new reference data becomes available. Therefore, we would greatly appreciate users sharing any issues they find, particularly if this relates to species' IDs. Thank you!
+#### Our aim is continuously test and update this tool as new reference data becomes available. Therefore, we would greatly appreciate users sharing any issues they find, particularly if this relates to species' IDs. We will continuously be updated this tool as new reference calls become available and revising ID categories as appropriate. Please remember that this classifier is specific for Borneo. Thank you! 
+
+#### We are aware of one bug: in the FMqCF model, the sonotypes 1-5 are labelled FM1-5. This is a labelling issue that we aim to fix ASAP
 
 #### Funding
 NY was funded by a Natural Environmental Research Council (NERC) EnvEast DTP scholarship (grant number NE/L002582/1). NERC also funded the acoustic surveys in Sabah (NE/K016407/1; https://lombok.nerc-hmtf.info/) along with the Mohamed bin Zayed species Conservation Fund (11253049). FAAK and ERJ were supported by the Ministry of Higher Education Malaysia through F07/FRGS/1878/2019. JCCH was supported by the Global Biodiversity Information Facility through BIFA grant. BPYHL was supported by a Ministry of National Development EDGE Scholarship and the Wildlife Reserves Singapore Conservation Fund. TK was funded by the US National Science Foundation (165871). We thank the Sabah Biodiversity Council, Sabah Forest Department, Yayasan Sabah, and Benta Wawasan Sdn Bhd. for research permissions in Sabah. 
