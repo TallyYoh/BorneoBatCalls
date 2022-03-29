@@ -32,6 +32,8 @@ This script applies the Borneo Bat Classifier (BBC) machine learning classifier 
 
 #### We are aware of one bug: in the FMqCF model, the sonotypes 1-5 are labelled FM1-5. This is a labelling issue that we aim to fix ASAP
 
+####  ⚠️We are currently reviewing the FMqCF and CF models⚠️
+
 #### Funding
 NY was funded by a Natural Environmental Research Council (NERC) EnvEast DTP scholarship (grant number NE/L002582/1). NERC also funded the acoustic surveys in Sabah (NE/K016407/1; https://lombok.nerc-hmtf.info/) along with the Mohamed bin Zayed species Conservation Fund (11253049). FAAK and ERJ were supported by the Ministry of Higher Education Malaysia through F07/FRGS/1878/2019. JCCH was supported by the Global Biodiversity Information Facility through BIFA grant. BPYHL was supported by a Ministry of National Development EDGE Scholarship and the Wildlife Reserves Singapore Conservation Fund. TK was funded by the US National Science Foundation (165871). We thank the Sabah Biodiversity Council, Sabah Forest Department, Yayasan Sabah, and Benta Wawasan Sdn Bhd. for research permissions in Sabah. 
 
